@@ -50,3 +50,5 @@
 *.vcxproj
 
 *.filters
+
+*.ipch
